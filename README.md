@@ -42,3 +42,8 @@ Proyek ini adalah server sederhana yang menggunakan UDP (User Datagram Protocol)
 1. Jalankan program server terlebih dahulu.
 2. Jalankan program klien setelah server berjalan.
 3. Ikuti instruksi pada program klien untuk berpartisipasi dalam permainan.
+
+
+## Use Case 10 Client 1 Server!
+[image](https://github.com/XevenTH/Tebak-Warna-UDP/assets/103362279/dc67245d-3776-4bce-9d52-f89c29228919)
+
